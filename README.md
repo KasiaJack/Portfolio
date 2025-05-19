@@ -7,4 +7,4 @@ Ich arbeite gerne im Team, bin zuverlässig und finde mich schnell in neue Aufga
 Es wäre mir eine Ehre, meine Ausbildung in einem verantwortungsvollen und innovativen Umfeld wie dem Ihren zu absolvieren.
 Ich freue mich über die Möglichkeit, mich persönlich vorzustellen und mehr über die Ausbildung bei Ihnen zu erfahren.
 Mit freundlichen Grüßen
-**Katarzyna Jackowska**
+#Katarzyna Jackowska
